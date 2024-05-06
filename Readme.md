@@ -8,7 +8,6 @@ note: this project was made to help me learn Js, css, and html so not everything
 
 - Addition, subtraction, multiplication, and division operations
 - Clear button to reset the input
-- designed for use on b
 
 ## Preview
  
