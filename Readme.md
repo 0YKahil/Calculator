@@ -7,7 +7,7 @@ note: this project was made to help me learn Js, css, and html so not everything
 ## Features
 
 - Addition, subtraction, multiplication, and division operations
-- Clear button to reset the input
+- Clear button to reset the input to nothing
 
 ## Preview
  
