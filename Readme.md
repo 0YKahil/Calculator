@@ -1,6 +1,6 @@
 # Calculator App
 
-This is a simple calculator appl built using JavaScript, HTML, and CSS. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Consisting of a clean and intuitive user interface, making it easy for users to input calculations and view the results.
+This is a simple calculator app built using JavaScript, HTML, and CSS. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Consisting of a clean and intuitive user interface, making it easy for users to input calculations and view the results.
 
 note: this project was made to help me learn Js, css, and html so not everything could be optimal
 
